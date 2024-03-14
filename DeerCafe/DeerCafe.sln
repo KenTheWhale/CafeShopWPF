@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeerCafe", "DeerCafe\DeerCafe.csproj", "{8978FFFD-14AC-49EB-BE0D-D4389BB1F226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8978FFFD-14AC-49EB-BE0D-D4389BB1F226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8978FFFD-14AC-49EB-BE0D-D4389BB1F226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8978FFFD-14AC-49EB-BE0D-D4389BB1F226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8978FFFD-14AC-49EB-BE0D-D4389BB1F226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79A19525-FD00-4167-89FB-F79656AE648D}
+	EndGlobalSection
+EndGlobal
