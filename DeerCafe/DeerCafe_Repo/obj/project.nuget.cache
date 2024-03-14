@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z1GnJiu7U6arB3SYiMv0A2mlAT3o668NgXzKT9mexPCiUmIlpv2UzmKjuPghqgGdxTuHuRJ7cyOUEJ9ip4XPwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe_Repo\\DeerCafe_Repo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AliensVN\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\AliensVN\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\AliensVN\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

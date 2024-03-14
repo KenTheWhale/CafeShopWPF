@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe\\DeerCafe.csproj": {}
+    "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe_Repo\\DeerCafe_Repo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe\\DeerCafe.csproj": {
+    "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe_Repo\\DeerCafe_Repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe\\DeerCafe.csproj",
-        "projectName": "DeerCafe",
-        "projectPath": "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe\\DeerCafe.csproj",
+        "projectUniqueName": "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe_Repo\\DeerCafe_Repo.csproj",
+        "projectName": "DeerCafe_Repo",
+        "projectPath": "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe_Repo\\DeerCafe_Repo.csproj",
         "packagesPath": "C:\\Users\\AliensVN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe\\obj\\",
+        "outputPath": "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe_Repo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +47,14 @@
         }
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,9 +69,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WPF": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"

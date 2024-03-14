@@ -8,19 +8,24 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+    "C:\\Users\\AliensVN\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kì 7\\PRN221\\DeerCafe\\DeerCafe\\DeerCafe.csproj",
+      "projectUniqueName": "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe\\DeerCafe.csproj",
       "projectName": "DeerCafe",
-      "projectPath": "D:\\Kì 7\\PRN221\\DeerCafe\\DeerCafe\\DeerCafe.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\Kì 7\\PRN221\\DeerCafe\\DeerCafe\\obj\\",
+      "projectPath": "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe\\DeerCafe.csproj",
+      "packagesPath": "C:\\Users\\AliensVN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AliensVN\\CafeShopWPF\\DeerCafe\\DeerCafe\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AliensVN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

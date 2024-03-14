@@ -2,5 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/CafeShopWPF/FileContentIndex/bd5fbc47-cae9-4469-be3d-4d10c5dc2555.vsidx
 /.vs
+/DeerCafe/.vs
