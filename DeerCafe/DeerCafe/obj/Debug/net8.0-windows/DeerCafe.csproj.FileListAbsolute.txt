@@ -18,3 +18,29 @@ D:\Kì 7\PRN221\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\refint\DeerCafe.dll
 D:\Kì 7\PRN221\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.pdb
 D:\Kì 7\PRN221\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.genruntimeconfig.cache
 D:\Kì 7\PRN221\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\ref\DeerCafe.dll
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\bin\Debug\net8.0-windows\DeerCafe.exe
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\bin\Debug\net8.0-windows\DeerCafe.deps.json
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\bin\Debug\net8.0-windows\DeerCafe.runtimeconfig.json
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\bin\Debug\net8.0-windows\DeerCafe.dll
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\bin\Debug\net8.0-windows\DeerCafe.pdb
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe_MarkupCompile.cache
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe_MarkupCompile.lref
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.g.resources
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.AssemblyInfoInputs.cache
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.AssemblyInfo.cs
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.csproj.CoreCompileInputs.cache
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.sourcelink.json
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.dll
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\refint\DeerCafe.dll
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.pdb
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.genruntimeconfig.cache
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\ref\DeerCafe.dll
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\bin\Debug\net8.0-windows\DeerCafe_Repo.dll
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\bin\Debug\net8.0-windows\DeerCafe_Repo.pdb
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.csproj.AssemblyReference.cache
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe\obj\Debug\net8.0-windows\DeerCafe.csproj.Up2Date

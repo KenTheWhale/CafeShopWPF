@@ -8,4 +8,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DeerCafe_Repo\DeerCafe_Repo.csproj" />
+  </ItemGroup>
+
 </Project>

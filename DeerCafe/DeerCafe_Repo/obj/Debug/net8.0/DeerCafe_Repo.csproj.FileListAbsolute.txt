@@ -1,0 +1,13 @@
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\bin\Debug\net8.0\DeerCafe_Repo.deps.json
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\bin\Debug\net8.0\DeerCafe_Repo.dll
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\bin\Debug\net8.0\DeerCafe_Repo.pdb
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\obj\Debug\net8.0\DeerCafe_Repo.csproj.AssemblyReference.cache
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\obj\Debug\net8.0\DeerCafe_Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\obj\Debug\net8.0\DeerCafe_Repo.AssemblyInfoInputs.cache
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\obj\Debug\net8.0\DeerCafe_Repo.AssemblyInfo.cs
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\obj\Debug\net8.0\DeerCafe_Repo.csproj.CoreCompileInputs.cache
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\obj\Debug\net8.0\DeerCafe_Repo.sourcelink.json
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\obj\Debug\net8.0\DeerCafe_Repo.dll
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\obj\Debug\net8.0\refint\DeerCafe_Repo.dll
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\obj\Debug\net8.0\DeerCafe_Repo.pdb
+C:\Users\AliensVN\CafeShopWPF\DeerCafe\DeerCafe_Repo\obj\Debug\net8.0\ref\DeerCafe_Repo.dll

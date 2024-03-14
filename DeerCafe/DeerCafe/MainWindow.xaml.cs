@@ -8,6 +8,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using DeerCafe_Repo.Services;
+using DeerCafe_Repo.Services.Impl;
 
 namespace DeerCafe
 {
@@ -23,7 +25,13 @@ namespace DeerCafe
 
         private void btnLogin_CLick(object sender, RoutedEventArgs e)
         {
-
+            // call Authenticate method from AuthenticationService
+            IAuthentication authentication = new AuthenticationService();
+            string token = authentication.Authenticate(txtUsername.Text, txtPassword.Password);
+            // debug
+            // show message box with token
+            MessageBox.Show(token);
+            this.Close();
         }
     }
 }

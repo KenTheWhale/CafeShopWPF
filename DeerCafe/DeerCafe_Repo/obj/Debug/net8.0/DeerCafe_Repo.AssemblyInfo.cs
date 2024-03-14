@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeerCafe_Repo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cebad2add7dc6174be5e2350e283f447ddb3f3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20bbde1a8d758972ac606cfc3caf46cf9b39b05f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeerCafe_Repo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeerCafe_Repo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
